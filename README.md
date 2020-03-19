@@ -7,4 +7,6 @@ March 2-9 data is from https://github.com/CSSEGISandData/COVID-19/blob/master/cs
 
 Gaps in the daily county numbers were filled in from news reports, which sometimes had different numbers depending on the time of day.
 
+Note that the 5 counties that comprise New York City have been combined, since that is how they were reported.
+
 None of the numbers in the .csv here should be considered official data.
