@@ -1,5 +1,5 @@
 # covid-19-ny
-Covid-19 coronovirus cases in New York State
+Covid-19 coronovirus cases in New York State, by county.
 
 Data March 16 onwards is from daily updates at https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases
 
